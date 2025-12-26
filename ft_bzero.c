@@ -14,9 +14,5 @@
 
 void	ft_bzero(void *s, size_t n)
 {
-	unsigned char	*k;
-
-	k = s;
-	while (n--)
-		*k++ = '\0';
+	ft_memset(s, 0, n);
 }

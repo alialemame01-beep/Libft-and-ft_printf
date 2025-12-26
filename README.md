@@ -58,4 +58,4 @@ Makefiles: [[C Programming: Makefiles by Barry Brown - A great tutorial on how a
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+No license.
