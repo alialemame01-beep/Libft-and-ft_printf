@@ -1,7 +1,9 @@
 *This project has been created as part of the 42 curriculum by aalemami*
 
 # Libft
+
 [![Build Status](https://github.com/ali-alemami/libft/actions/workflows/build.yml/badge.svg)](https://github.com/ali-alemami/libft/actions)
+
 *My very first own library*
 
 ## Description
